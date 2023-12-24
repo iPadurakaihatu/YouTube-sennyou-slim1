@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: emergency-ryousan-type-slim1-1
+    name: you-tu-sennyou-slim1
     env: python
     region: Oregon
     plan: free
